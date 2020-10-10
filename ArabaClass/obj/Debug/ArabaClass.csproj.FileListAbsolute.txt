@@ -1,0 +1,11 @@
+C:\Users\Eren\source\repos\ArabaClass\ArabaClass\bin\Debug\ArabaClass.exe.config
+C:\Users\Eren\source\repos\ArabaClass\ArabaClass\bin\Debug\ArabaClass.exe
+C:\Users\Eren\source\repos\ArabaClass\ArabaClass\bin\Debug\ArabaClass.pdb
+C:\Users\Eren\source\repos\ArabaClass\ArabaClass\obj\Debug\ArabaClass.csprojAssemblyReference.cache
+C:\Users\Eren\source\repos\ArabaClass\ArabaClass\obj\Debug\ArabaClass.Form1.resources
+C:\Users\Eren\source\repos\ArabaClass\ArabaClass\obj\Debug\ArabaClass.Properties.Resources.resources
+C:\Users\Eren\source\repos\ArabaClass\ArabaClass\obj\Debug\ArabaClass.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\ArabaClass\ArabaClass\obj\Debug\ArabaClass.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\ArabaClass\ArabaClass\obj\Debug\ArabaClass.exe
+C:\Users\Eren\source\repos\ArabaClass\ArabaClass\obj\Debug\ArabaClass.pdb
+C:\Users\Eren\source\repos\ArabaClass\ArabaClass\obj\Debug\ArabaClass.Form2.resources
